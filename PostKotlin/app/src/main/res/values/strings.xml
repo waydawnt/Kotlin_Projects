@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Post Kotlin</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="service_question_text">How was the Service?</string>
+</resources>
